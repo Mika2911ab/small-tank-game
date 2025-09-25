@@ -22,3 +22,6 @@ Fahre über zufällig generierte Maps, passe den Winkel und die Schussstärke an
 - Passt Winkel/Power basierend auf dem letzten Einschlag an
 - Nutzt denselben Physik/Wind-Stack wie der Spieler
 
+## Contributors
+- [Mikael Alves Brito](https://github.com/Mika2911ab)
+- [Viktor Lehnhausen](https://github.com/vlehnhau)
